@@ -1,10 +1,14 @@
 # Suitability of graph representation for BGP anomaly detection
 
-
 This is the implemention of the work presented in our paper:
 "Suitability of graph representation for BGP anomaly detection".
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Usage
+
+- python ml_model.py [-h] {LS,OH,PH} {S,G,GK}
+- python svm_threshold.py [-h] {LS,OH,PH} {S,G,GK} [0-30]
 
 ## References
 
