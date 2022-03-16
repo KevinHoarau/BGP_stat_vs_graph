@@ -14,10 +14,10 @@ This is the implemention of the work presented in our paper:
 
 If our work is helpful to you, please kindly cite our paper as:
 ```
-@INPROCEEDINGS{hoarau2021suitability,
-AUTHOR="Kevin Hoarau and Pierre-Ugo Tournoux and Tahiry Razafindralambo",
-TITLE="Suitability of Graph Representation for BGP Anomaly Detection",
-BOOKTITLE="2021 IEEE 46th Conference on Local Computer Networks (LCN 2021)",
-YEAR=2021
+@inproceedings{hoarau2021suitability,
+  title={Suitability of Graph Representation for BGP Anomaly Detection},
+  author={Hoarau, Kevin and Tournoux, Pierre Ugo and Razafindralambo, Tahiry},
+  booktitle={2021 IEEE 46th Conference on Local Computer Networks (LCN)},
+  year={2021}
 }
 ```
